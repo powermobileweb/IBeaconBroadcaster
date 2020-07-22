@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UUID</key>
+	<string>6665542b-41a1-5e00-931c-6a82db9b78c1</string>
+	<key>beaconName</key>
+	<string>GemTot for iOS</string>
+	<key>major</key>
+	<integer>0</integer>
+	<key>minor</key>
+	<integer>0</integer>
+	<key>power</key>
+	<integer>127</integer>
+	<key>broadcasting</key>
+	<integer>0</integer>
+</dict>
+</plist>
